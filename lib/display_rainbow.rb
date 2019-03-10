@@ -1,2 +1,2 @@
-display_rainbow ["red", "orange", "yellow", "green", "blue", "violet", "indigo", ]
-puts display_rainbow
+#display_rainbow ["red", "orange", "yellow", "green", "blue", "violet", "indigo", ]
+puts #display_rainbow
