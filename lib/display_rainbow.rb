@@ -1,2 +1,3 @@
-#display_rainbow ["red", "orange", "yellow", "green", "blue", "violet", "indigo", ]
-puts #display_rainbow
+def display_rainbow ["red", "orange", "yellow", "green", "blue", "violet", "indigo", ]
+print display_rainbow
+end
